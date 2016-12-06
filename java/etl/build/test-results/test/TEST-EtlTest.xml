@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EtlTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2016-12-05T16:37:47" hostname="GBOXF-0R021" time="0.007">
+  <properties/>
+  <testcase name="testTransformOneValue" classname="EtlTest" time="0.004"/>
+  <testcase name="testTransformMoreValues" classname="EtlTest" time="0.001"/>
+  <testcase name="testFullDataset" classname="EtlTest" time="0.001"/>
+  <testcase name="testMoreKeys" classname="EtlTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
